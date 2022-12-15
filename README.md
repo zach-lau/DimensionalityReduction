@@ -15,6 +15,6 @@ scikit-learn=1.2.0
 matplotlib=3.5.0
 jupyter=1.0.0
 ```
-## External Link
+## External Links
 Dataset: https://drive.google.com/drive/folders/1njOs3hPifRcZFq6BqP9zJrIBLxNpWgVg?usp=sharing  
 scikit-learn: https://scikit-learn.org/stable/modules/manifold.html  
