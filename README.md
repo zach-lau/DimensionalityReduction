@@ -14,6 +14,7 @@ numpy=1.21.4
 scikit-learn=1.2.0
 matplotlib=3.5.0
 jupyter=1.0.0
+ipympl=0.9.2
 ```
 ## External Links
 Dataset: https://drive.google.com/drive/folders/1njOs3hPifRcZFq6BqP9zJrIBLxNpWgVg?usp=sharing  
